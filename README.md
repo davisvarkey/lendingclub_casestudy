@@ -1,5 +1,5 @@
 # Project Name
-###Lending Club Case Study
+### Lending Club Case Study
 
 
 ## Table of Contents
