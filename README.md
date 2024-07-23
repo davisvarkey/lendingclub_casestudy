@@ -84,14 +84,11 @@ Driving features to be considered before approving loan :
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by davisvarkey - feel free to contact me!
 
 
 <!-- Optional -->
