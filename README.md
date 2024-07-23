@@ -1,5 +1,5 @@
 # Project Name
-Lending Club Case Study
+###Lending Club Case Study
 
 
 ## Table of Contents
@@ -86,10 +86,6 @@ Driving features to be considered before approving loan :
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
